@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiridharanMohan
-- 👀 I’m interested in desinging and writing sql queries
+- 👀 I’m interested in designing and writing sql queries
 - 🌱 I’m currently learning core java and DSA
 - 💞️ I’m looking to collaborate on full stack developer
 - 📫 Ig: @mr.g_619_ 
